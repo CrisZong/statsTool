@@ -27,4 +27,5 @@
 if you deploy lambda with API gateway you can try the following with api endpoint.
 
 curl --header "Content-Type:application/json"    --request POST       \ --data '{"password":(your microservice password), "method": "prediction"}' \ (your api endpoint)
-# Notes: method can also be “stats”,”autocorrelation”
+
+<b>Notes: method can also be “stats”,”autocorrelation”</b>
