@@ -5,8 +5,7 @@
 3. Stats(Cases by building sorted by number of cases)
 
 ## Architecture
-
-## Usage
+![alt text](statsToolArch.png)
 
 ## Prerequisite
 1. You need a Google Sheet service account and API.
